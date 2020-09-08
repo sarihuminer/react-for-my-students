@@ -1,0 +1,14 @@
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\Dto.dll.config
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\Dto.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\Dto.pdb
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\EntityFramework.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\EntityFramework.xml
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\obj\Debug\Dto.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\obj\Debug\Dto.pdb
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\dal.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\dal.pdb
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\Dto\bin\Debug\dal.dll.config

@@ -1,0 +1,11 @@
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\bin\Debug\dal.dll.config
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\bin\Debug\dal.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\bin\Debug\dal.pdb
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\bin\Debug\EntityFramework.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\bin\Debug\EntityFramework.xml
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\obj\Debug\dal.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\dal\obj\Debug\dal.pdb

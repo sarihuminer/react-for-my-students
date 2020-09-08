@@ -1,0 +1,17 @@
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\bl.dll.config
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\bl.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\bl.pdb
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\dal.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\Dto.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\EntityFramework.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\dal.pdb
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\dal.dll.config
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\Dto.pdb
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\Dto.dll.config
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\EntityFramework.xml
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\obj\Debug\bl.csprojResolveAssemblyReference.cache
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\obj\Debug\bl.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\obj\Debug\bl.dll
+C:\Users\sari\Documents\הוראה\הילדסהיימר\react\api_axios\bl\obj\Debug\bl.pdb
